@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/CudaRuntime1/x64/Debug
+/test-project/.vs/test-project/v16
+/test-project/Debug
+/test-project/x64/Debug
+/test-project/test-project.vcxproj.user
+/CudaRuntime1/CudaRuntime1.vcxproj.user
